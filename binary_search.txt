@@ -1,0 +1,1 @@
+Find Binary search for matlab here https://www.mathworks.com/matlabcentral/fileexchange/56271-binarysearch-a-n-num
